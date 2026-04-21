@@ -10,7 +10,8 @@
       "Bash(npm run *)",
       "Bash(node *)",
       "Bash(npx tsc *)",
-      "Bash(echo \"PID: $!\" sleep 5 curl -s http://localhost:3000/api/analyze/31npxa2Vk2yrGDZKeRmEfMp3QdZhqGVJdKm4etWDZZM3)"
+      "Bash(echo \"PID: $!\" sleep 5 curl -s http://localhost:3000/api/analyze/31npxa2Vk2yrGDZKeRmEfMp3QdZhqGVJdKm4etWDZZM3)",
+      "Bash(npm show *)"
     ]
   }
 }
